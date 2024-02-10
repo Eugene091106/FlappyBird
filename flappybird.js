@@ -155,9 +155,7 @@ onclick = function moveBird() {
         pipeArray = [];
         score = 0;
         gameOver = false;
-        }
-        
-    
+        }  
 }
 
 function detectCollision(a, b) {
